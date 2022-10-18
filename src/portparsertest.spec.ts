@@ -1,4 +1,4 @@
-import PortParser from './portparser'
+import PortParser from './PortParser'
 
 describe('Portparser tests', () => {
     it("Should parse valid input to integer", () => {

@@ -1,4 +1,4 @@
-import LoggingParser from './loggingparser'
+import LoggingParser from './LoggingParser'
 
 describe('LoggingParser tests', () => {
     it('Should return true when correct flag is given', () => {
